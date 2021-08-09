@@ -25,6 +25,8 @@ https://codesandbox.io/s/xenodochial-sun-2mm4n
 
 https://github.com/baraahalomari/resty/pull/1
 
+https://github.com/baraahalomari/resty/pull/6
+
 ## UML Diagram
 
 ![uml](./33.png)
