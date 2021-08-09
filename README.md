@@ -27,6 +27,10 @@ https://github.com/baraahalomari/resty/pull/1
 
 https://github.com/baraahalomari/resty/pull/6
 
+## Action for GitHup
+
+https://github.com/baraahalomari/resty/actions
+
 ## UML Diagram
 
 ![uml](./33.png)
