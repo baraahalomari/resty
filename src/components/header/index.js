@@ -12,7 +12,8 @@
 
 // export default Header;
 
-import React from 'react'
+import React from 'react';
+import './header.scss';
 
 function Header() {
   return (
@@ -22,4 +23,4 @@ function Header() {
   )
 }
 
-export default Header
+export default Header;
