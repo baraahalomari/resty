@@ -8,7 +8,8 @@
 
 // export default Footer;
 
-import React from 'react'
+import React from 'react';
+import './footer.scss';
 
 function Footer() {
   return (

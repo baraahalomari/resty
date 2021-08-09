@@ -16,19 +16,23 @@ class App extends React.Component {
     this.state = {
       data: null,
       requestParams: {},
+      showLoading:false
     };
   }
 
-  callApi = (requestParams) => {
+  callApi = (requestParams,requestBody) => {
     // mock output
     const data = {
+      Headers:{
+        "content-type": 'string application/json',
+      },
       count: 2,
       results: [
         {name: 'fake thing 1', url: 'http://fakethings.com/1'},
         {name: 'fake thing 2', url: 'http://fakethings.com/2'},
       ],
     };
-    this.setState({data, requestParams});
+    this.setState({data, requestParams,showLoading:true});
   }
 
   render() {
@@ -46,3 +50,8 @@ class App extends React.Component {
 }
 
 export default App;
+
+
+
+
+
