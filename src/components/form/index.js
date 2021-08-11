@@ -46,7 +46,7 @@ function Form(props) {
 
   let [method, setmethod] = useState('get');
   let [url, seturl] = useState('https://pokeapi.co/api/v2/pokemon');
-  let [request, setrequest] = useState('https://pokeapi.co/api/v2/pokemon');
+  let [request, setrequest] = useState();
  
   function handleSubmit(e) {
     e.preventDefault();
