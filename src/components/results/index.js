@@ -13,11 +13,15 @@
 // export default Results;
 
 import React from 'react'
+import JSONPretty from 'react-json-pretty';
+import 'react-json-pretty/themes/monikai.css';
+import Loading from '../Loading/loading';
 
 function Results(props) {
   return (
     <>
-      <pre data-testid="results">{props.data ? JSON.stringify(props.data, undefined, 2) : null}</pre>
+      {/* <JSONPretty data-testid="results" id="json-pretty" data={props.data ? JSON.stringify(props.data, undefined, 2) : 'Loading..'}/>  */}
+      { props.data ?<JSONPretty data-testid="results"data={props.data}></JSONPretty>  :  <Loading/>}
     </>
   )
 }
