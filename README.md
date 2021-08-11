@@ -18,7 +18,7 @@ https://mystifying-ritchie-5208a9.netlify.app/
 ## sandbox link
 
 
-https://codesandbox.io/s/xenodochial-sun-2mm4n
+https://codesandbox.io/s/unruffled-black-gk373
 
 
 ## pull request
@@ -26,6 +26,8 @@ https://codesandbox.io/s/xenodochial-sun-2mm4n
 https://github.com/baraahalomari/resty/pull/1
 
 https://github.com/baraahalomari/resty/pull/6
+
+https://github.com/baraahalomari/resty/pull/10
 
 ## Action for GitHup
 
