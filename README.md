@@ -18,7 +18,7 @@ https://mystifying-ritchie-5208a9.netlify.app/
 ## sandbox link
 
 
-https://codesandbox.io/s/unruffled-black-gk373
+https://codesandbox.io/s/amazing-herschel-plx5s
 
 
 ## pull request
@@ -28,6 +28,8 @@ https://github.com/baraahalomari/resty/pull/1
 https://github.com/baraahalomari/resty/pull/6
 
 https://github.com/baraahalomari/resty/pull/10
+
+https://github.com/baraahalomari/resty/pull/12
 
 ## Action for GitHup
 
